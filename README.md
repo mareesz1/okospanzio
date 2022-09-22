@@ -1,5 +1,5 @@
 # okospanzio
 # csapattagok:
-   Nagy Gergő
-   Csanda Norbert
+   Nagy Gergő,
+   Csanda Norbert,
    Mike Marcell
